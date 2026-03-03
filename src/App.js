@@ -3,7 +3,7 @@ import QuizPage from './component/Quiz-page';
 import FetchQuestion from './component/fetch-Questions';
 import QuestionPage from './component/Question-page';
 import ResultPage from './component/ResultPage';
-import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 
 function App() {
   return (
