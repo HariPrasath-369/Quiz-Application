@@ -73,10 +73,10 @@ body {
   border-radius: 8px;
 }
 
-.answer-option:hover {
+/* .answer-option:hover {
   background: #e5e5e5;
   transform: translateX(5px);
-}
+} */
 
 .answer-option input {
   margin-right: 10px;
@@ -122,13 +122,13 @@ body {
   font-size: 16px;
 }
 
-.nav-btn:hover {
+/* .nav-btn:hover {
   transform: scale(1.1);
-}
+} */
 
-.nav-btn:active {
+/* .nav-btn:active {
   transform: scale(0.95);
-}
+} */
 
 .nav-btn.answered { 
   background: #4caf50; 
@@ -158,14 +158,14 @@ body {
   
 }
 
-.nav-buttons button:hover {
+/* .nav-buttons button:hover {
   background: #1976d2;
   transform: translateY(-2px);
 }
 
 .nav-buttons button:active {
   transform: translateY(0);
-}
+} */
 
 .nav-buttons button:disabled {
   background: #666;
@@ -184,10 +184,10 @@ body {
   border-radius: 8px;
 }
 
-.finish-btn:hover {
+/* .finish-btn:hover {
   background: #f4511e;
   transform: translateY(-2px);
-}
+} */
 
 .finish-btn:active {
   transform: translateY(0);
